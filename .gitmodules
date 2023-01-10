@@ -1,0 +1,3 @@
+[submodule "Recipes-Projects/Odin-Project-Recipe-Book"]
+	path = Recipes-Projects/Odin-Project-Recipe-Book
+	url = git@github.com:Its-Jin/Odin-Project-Recipe-Book-.git
