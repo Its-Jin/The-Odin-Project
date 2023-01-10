@@ -8,10 +8,10 @@
 
 ## Table of Contents 
 - [Foundations]:
-    * [Intoduction-to-Computers](https://github.com/Its-Jin/The-Odin-Project/tree/main/Introduction-to-Computers)
+    * [Intoduction to Computers](https://github.com/Its-Jin/The-Odin-Project/tree/main/Introduction-to-Computers)
     * [Basics-of-Git]
     * [HTML-Foundations]
-    * [Project-1:Recipes] 
+    * [Project 1:Recipes](https://github.com/Its-Jin/Odin-Project-Recipe-Book-)
     * [CSS-Foundations]
     * [Flexbox]
     * [JavaScript-Basics]
