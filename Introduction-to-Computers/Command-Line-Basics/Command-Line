@@ -1,0 +1,29 @@
+# Command Line and UNIX Shell
+CLI is the shell which is a program that read commands and run programs.
+
+### Unix & Unix Shell
+Unix is a command based OS unlike windows which is menu-based (aka GUI based). 
+
+### Components of UNIX
+- Kernel: The commander of the system
+- Shell: The commnand line interpreter (CLI) that acts as the interface between the User and the kernel 
+- Programs
+
+Working with Shell usually is working with files or processes
+- Process: a programed identified by unique PID 
+- Files: a collection of data
+
+### Purpose and Advantage of UNIX Shell
+| Name | Pros | Cons |
+|:------:|:-----:|:------:|
+| Unix Shell | **Uses CLI and Scripting**, Allowing repetitive tasks  to be done automatically and fast. Allows for interaction between remote machines and supercomputers| **Lack GUI** thus harder to pick up|
+| Menu Based OS |**Has GUI** Easier to learn | Weak at handling repetitive tasks |
+
+
+# General Syntax of a Shell Command 
+<img scr="https://swcarpentry.github.io/shell-novice/fig/shell_command_syntax.svg" width=150>
+
+IMPORTANT NOTES:
+- Spaces are important
+- Capitalization also important
+
