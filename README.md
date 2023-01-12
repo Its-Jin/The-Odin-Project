@@ -2,7 +2,7 @@
 
 <img src="https://cdn.statically.io/gh/TheOdinProject/curriculum/5f37d43908ef92499e95a9b90fc3cc291a95014c/html_css/project-sign-up-form/odin-lined.png" width=150>
 
-- This respo is a summary of all my notes, assignments, resources, references and study tools from my journey with the [Odin Project](https://www.theodinproject.com/) program. I have had previous experience with HTML and CSS prior to starting the Odin Project, thus the notes will not be extensive, and will only contain information that is new to me. 
+- This repo is a summary of all my notes, assignments, resources, references and study tools from my journey with the [Odin Project](https://www.theodinproject.com/) program. I have had previous experience with HTML and CSS prior to starting the Odin Project, thus the notes will not be extensive, and will only contain information that is new to me. 
 
 
 ## Table of Contents 
